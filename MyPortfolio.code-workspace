@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "launch.json file",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "launch.json file"
+	}
+}
